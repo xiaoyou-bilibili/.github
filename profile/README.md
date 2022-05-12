@@ -19,5 +19,5 @@ B站：https://space.bilibili.com/343147393
 |04-08|[动漫头像生成](https://github.com/xiaoyou-bilibili/anime_avatar_gen)|基于对抗生成网络的动漫头像生成器| [B站](https://www.bilibili.com/video/BV1MF411G7UU) <br> [YouTube](https://youtu.be/wUlh4dFh_YU) |
 |04-16|[动漫人脸识别](https://github.com/xiaoyou-bilibili/anime_recognize)|基于yolov5+arcface的动漫人脸识别，可以框出动漫人脸位置以及显示对应人物名字| [B站](https://www.bilibili.com/video/BV1tS4y1Y7gc) <br> [YouTube](https://youtu.be/0eKBEoiSc_s) |
 |04-23|[强化学习玩马里奥](https://github.com/xiaoyou-bilibili/gym_super_mario)|基于DQN强化学习算法，可以玩超级马里奥游戏| [B站](https://www.bilibili.com/video/BV1RY4y1a76n) <br> [YouTube](https://youtu.be/VEuVMdB4KsM) |
-|04-30|[主流语言爬虫](https://github.com/xiaoyou-bilibili/spider)|使用18门语言编写爬虫，演示了不同语言如何实现一个简单的爬虫| [B站](https://www.bilibili.com/video/BV1k5411R7mD) <br> [YouTube](https://youtu.be/EJeIiN_1Bic) |
+|04-30|[主流语言爬虫](https://github.com/xiaoyou-bilibili/spider)|演示了不同语言如何实现一个简单的爬虫，目前已收录18门语言| [B站](https://www.bilibili.com/video/BV1k5411R7mD) <br> [YouTube](https://youtu.be/EJeIiN_1Bic) |
 |05-08|[XBlog博客系统](https://github.com/xiaoyou-bilibili/xblog)|耗时两年开发的博客系统、包括前后端、安卓和微信小程序| [B站](https://www.bilibili.com/video/BV1sY4y1r7hs) <br> [YouTube](https://youtu.be/N4ZBXKkhaKI) |
