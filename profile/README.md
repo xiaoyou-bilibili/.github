@@ -3,8 +3,11 @@
 
 ## 平台账号
 B站：https://space.bilibili.com/343147393
+
 YouTube：https://www.youtube.com/channel/UCdHNS1d3fTx-m69tKsr7n3w
+
 Twitter：https://twitter.com/xiaoyou625
+
 github：https://github.com/xiaoyou66
 
 ## 2022
