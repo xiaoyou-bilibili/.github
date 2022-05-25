@@ -22,4 +22,4 @@ B站：https://space.bilibili.com/343147393
 |04-30|[主流语言爬虫](https://github.com/xiaoyou-bilibili/spider)|演示了不同语言如何实现一个简单的爬虫，目前已收录18门语言| [B站](https://www.bilibili.com/video/BV1k5411R7mD) <br> [YouTube](https://youtu.be/EJeIiN_1Bic) |
 |05-08|[XBlog博客系统](https://github.com/xiaoyou-bilibili/xblog)|耗时两年开发的博客系统、包括前后端、安卓和微信小程序| [B站](https://www.bilibili.com/video/BV1sY4y1r7hs) <br> [YouTube](https://youtu.be/N4ZBXKkhaKI) |
 |05-13|[声纹识别](https://github.com/xiaoyou-bilibili/voice_recognize)|基于resnet+arcface的声纹识别，可以用于游戏角色的声音识别| [B站](https://www.bilibili.com/video/BV18F41177jb) <br> [YouTube](https://youtu.be/XV9NwpnLPGo) |
-|05-22|[使用K8s部署自己的服务](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/build_k8s)|搭建自己的k8s集群笔记| [B站](https://www.bilibili.com/video/BV1HT4y1q7SF) <br> [YouTube](https://youtu.be/VvdClhNShZY) |
+|05-22|[K8s搭建](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/build_k8s)|搭建自己的k8s集群笔记| [B站](https://www.bilibili.com/video/BV1HT4y1q7SF) <br> [YouTube](https://youtu.be/VvdClhNShZY) |
