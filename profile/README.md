@@ -23,3 +23,5 @@ B站：https://space.bilibili.com/343147393
 |05-08|[XBlog博客系统](https://github.com/xiaoyou-bilibili/xblog)|耗时两年开发的博客系统、包括前后端、安卓和微信小程序| [B站](https://www.bilibili.com/video/BV1sY4y1r7hs) <br> [YouTube](https://youtu.be/N4ZBXKkhaKI) |
 |05-13|[声纹识别](https://github.com/xiaoyou-bilibili/voice_recognize)|基于resnet+arcface的声纹识别，可以用于游戏角色的声音识别| [B站](https://www.bilibili.com/video/BV18F41177jb) <br> [YouTube](https://youtu.be/XV9NwpnLPGo) |
 |05-22|[K8s搭建](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/build_k8s)|搭建自己的k8s集群笔记| [B站](https://www.bilibili.com/video/BV1HT4y1q7SF) <br> [YouTube](https://youtu.be/VvdClhNShZY) |
+|06-02|[对象存储搭建](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/object_storage)|搭建对象存储系统（ceph和minio）| [B站](https://www.bilibili.com/video/BV1q5411Q7u8) <br> [YouTube](https://youtu.be/A-yBJoDil5UY) |
+|06-02|[python爬虫笔记](https://github.com/xiaoyou-bilibili/python_study/tree/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)|python3网络爬虫实战笔记| 无 |
