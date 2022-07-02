@@ -1,5 +1,5 @@
-# 个人项目集合
-> 本组织主要收集了个人在视频平台发布过的项目
+# 个人项目/学习笔记集合
+> 本组织主要收集了个人在视频平台发布过的项目以及自己的学习笔记
 
 ## 平台账号
 B站：https://space.bilibili.com/343147393
@@ -9,7 +9,7 @@ B站：https://space.bilibili.com/343147393
 
 ## 2022
 
-|发布时间|项目名称|简介|视频|
+|发布时间|名称|简介|视频|
 |---|----|----|----|
 |01-02|[CNN简单介绍](https://github.com/xiaoyou-bilibili/deep_cnn_Introduction)|简单介绍CNN并使用Fashion-MNIST来进行演示| [B站](https://www.bilibili.com/video/BV1GD4y1F7Y4) <br> [YouTube](https://youtu.be/m4yN6nnQXow) |
 |01-23|[yolov5演示](https://github.com/xiaoyou-bilibili/yolov5_demo)|使用yolov5做了一个简单的web界面| [B站](https://www.bilibili.com/video/BV1vm4y1S7UN/) <br> [YouTube](https://youtu.be/mfYAybNO9vE) |
@@ -26,3 +26,4 @@ B站：https://space.bilibili.com/343147393
 |06-02|[对象存储搭建](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/object_storage)|搭建对象存储系统（ceph和minio）| [B站](https://www.bilibili.com/video/BV1q5411Q7u8) <br> [YouTube](https://youtu.be/A-yBJoDil5UY) |
 |06-13|[python爬虫笔记](https://github.com/xiaoyou-bilibili/python_study/tree/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)|python3网络爬虫实战笔记| 无 |
 |06-30|[微服务简单介绍](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/micro-server)|简单介绍了一下go微服务生态的一些内容| [B站](https://www.bilibili.com/video/BV1Pa411X7o2) <br> [YouTube](https://youtu.be/VYrQe7S5luM)  |
+|07-02|[cpp笔记](https://github.com/xiaoyou-bilibili/cpp_study/tree/master/cpp_primer_plus)|cpp primer plus笔记| 无  |
