@@ -27,3 +27,5 @@ B站：https://space.bilibili.com/343147393
 |06-13|[python爬虫笔记](https://github.com/xiaoyou-bilibili/python_study/tree/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)|python3网络爬虫实战笔记| 无 |
 |06-30|[微服务简单介绍](https://github.com/xiaoyou-bilibili/distributed_study/tree/master/micro-server)|简单介绍了一下go微服务生态的一些内容| [B站](https://www.bilibili.com/video/BV1Pa411X7o2) <br> [YouTube](https://youtu.be/VYrQe7S5luM)  |
 |07-02|[cpp笔记](https://github.com/xiaoyou-bilibili/cpp_study/tree/master/cpp_primer_plus)|cpp primer plus笔记| 无  |
+|09-05|[index](https://github.com/xiaoyou-bilibili/index)| 一款可扩展的资源管理软件 | [B站](https://www.bilibili.com/video/BV1714y1s7jZ) <br> [YouTube](https://youtu.be/jl2wpz1sIIQ) |
+|09-12|[代码生成器](https://github.com/xiaoyou-bilibili/code_generate)| 可以根据自己定义的接口快速生成代码 | [B站](https://www.bilibili.com/video/BV11e4y1C7Sh) <br> [YouTube](https://youtu.be/lAN2yXb59QE) |
