@@ -30,5 +30,5 @@ B站：https://space.bilibili.com/343147393
 |09-05|[index](https://github.com/xiaoyou-bilibili/index)| 一款可扩展的资源管理软件 | [B站](https://www.bilibili.com/video/BV1714y1s7jZ) <br> [YouTube](https://youtu.be/jl2wpz1sIIQ) |
 |09-12|[代码生成器](https://github.com/xiaoyou-bilibili/code_generate)| 可以根据自己定义的接口快速生成代码 | [B站](https://www.bilibili.com/video/BV11e4y1C7Sh) <br> [YouTube](https://youtu.be/lAN2yXb59QE) |
 |09-18|[SAO模型](https://github.com/xiaoyou-bilibili/sao_model)| 使用虚幻引擎还原SAO | [B站](https://www.bilibili.com/video/BV1xt4y1A74v) <br> [YouTube](https://youtu.be/U5PXtcKhXgE) |
-|09-24|[基于vits的语言合成](https://github.com/xiaoyou-bilibili/tts_vits)| 使用vits训练标本和原神数据集，基本可用 | [B站](https://www.bilibili.com/video/BV1Fe4y1r737) <br> [YouTube](https://youtu.be/Ec8BqsoIw7A) |
+|09-24|[语音合成](https://github.com/xiaoyou-bilibili/tts_vits)| 使用vits训练标本和原神数据集，基本可用 | [B站](https://www.bilibili.com/video/BV1Fe4y1r737) <br> [YouTube](https://youtu.be/Ec8BqsoIw7A) |
 |09-24|[AI学习笔记](https://github.com/xiaoyou-bilibili/ai_study)| 练丹过程的一些笔记记录 | 无 |
