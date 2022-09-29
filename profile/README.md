@@ -9,7 +9,7 @@ B站：https://space.bilibili.com/343147393
 
 ## 2022
 
-| 时间 |名称|简介|视频|文章|
+| 发布时间 |名称|简介|视频|文章|
 |----|----|----|----|----|
 | 01-02 |[CNN简单介绍](https://github.com/xiaoyou-bilibili/deep_cnn_Introduction)|简单介绍CNN并使用Fashion-MNIST来进行演示| [B站](https://www.bilibili.com/video/BV1GD4y1F7Y4) <br> [YouTube](https://youtu.be/m4yN6nnQXow) |无|
 | 01-23 |[yolov5演示](https://github.com/xiaoyou-bilibili/yolov5_demo)|使用yolov5做了一个简单的web界面| [B站](https://www.bilibili.com/video/BV1vm4y1S7UN/) <br> [YouTube](https://youtu.be/mfYAybNO9vE) |无|
