@@ -32,5 +32,6 @@ B站：https://space.bilibili.com/343147393
 | 09-18 |[SAO模型](https://github.com/xiaoyou-bilibili/sao_model)| 使用虚幻引擎还原SAO | [B站](https://www.bilibili.com/video/BV1xt4y1A74v) <br> [YouTube](https://youtu.be/U5PXtcKhXgE) |无|
 | 09-24 |[语音合成](https://github.com/xiaoyou-bilibili/tts_vits)| 使用vits训练标本和原神数据集，基本可用 | [B站](https://www.bilibili.com/video/BV1Fe4y1r737) <br> [YouTube](https://youtu.be/Ec8BqsoIw7A) |无|
 | 09-24 |[AI学习笔记](https://github.com/xiaoyou-bilibili/ai_study)| 练丹过程的一些笔记记录 | 无 |无|
+| 10-05 |[实时目标检测](https://github.com/xiaoyou-bilibili/pi_camera_yolo)| 实时对视频流进行目标检测 | [B站](https://www.bilibili.com/video/BV1i8411x7wg) <br> [YouTube](https://youtu.be/jX2sMaqy60Y) |[掘金](https://juejin.cn/post/7151226728697266189/)|
 
 
