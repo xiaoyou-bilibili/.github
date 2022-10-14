@@ -33,5 +33,6 @@ B站：https://space.bilibili.com/343147393
 | 09-24 |[语音合成](https://github.com/xiaoyou-bilibili/tts_vits)| 使用vits训练标本和原神数据集，基本可用 | [B站](https://www.bilibili.com/video/BV1Fe4y1r737) <br> [YouTube](https://youtu.be/Ec8BqsoIw7A) |无|
 | 09-24 |[AI学习笔记](https://github.com/xiaoyou-bilibili/ai_study)| 练丹过程的一些笔记记录 | 无 |无|
 | 10-05 |[实时目标检测](https://github.com/xiaoyou-bilibili/pi_camera_yolo)| 实时对视频流进行目标检测 | [B站](https://www.bilibili.com/video/BV1i8411x7wg) <br> [YouTube](https://youtu.be/jX2sMaqy60Y) |[掘金](https://juejin.cn/post/7151226728697266189/)|
-
+| 10-07 |[自动生成MMD文件](https://github.com/xiaoyou-bilibili/openpose-mmd)| 让派蒙去模仿B站舞蹈区UP主跳舞 | [B站](https://www.bilibili.com/video/BV1cP41177gw) <br> [YouTube](https://youtu.be/-G2p5LrAYLI) |[掘金](https://juejin.cn/post/7151935012437245982)|
+| 10-12 |[动漫人物模仿视频人脸](https://github.com/xiaoyou-bilibili/openpose-wifu)| 纸片人模仿川普说话 | [B站](https://www.bilibili.com/video/BV1wG411J7cg) <br> [YouTube](https://youtu.be/KKBBNL_fT3g) |[掘金](https://juejin.cn/post/7153798545949556767)|
 
