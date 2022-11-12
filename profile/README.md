@@ -35,4 +35,5 @@ B站：https://space.bilibili.com/343147393
 | 10-05 |[实时目标检测](https://github.com/xiaoyou-bilibili/pi_camera_yolo)| 实时对视频流进行目标检测 | [B站](https://www.bilibili.com/video/BV1i8411x7wg) <br> [YouTube](https://youtu.be/jX2sMaqy60Y) |[掘金](https://juejin.cn/post/7151226728697266189/)|
 | 10-07 |[自动生成MMD文件](https://github.com/xiaoyou-bilibili/openpose-mmd)| 让派蒙去模仿B站舞蹈区UP主跳舞 | [B站](https://www.bilibili.com/video/BV1cP41177gw) <br> [YouTube](https://youtu.be/-G2p5LrAYLI) |[掘金](https://juejin.cn/post/7151935012437245982)|
 | 10-12 |[动漫人物模仿视频人脸](https://github.com/xiaoyou-bilibili/openpose-wifu)| 纸片人模仿川普说话 | [B站](https://www.bilibili.com/video/BV1wG411J7cg) <br> [YouTube](https://youtu.be/KKBBNL_fT3g) |[掘金](https://juejin.cn/post/7153798545949556767)|
-
+| 10-16 |[AI作画调研](https://github.com/xiaoyou-bilibili/ai_draw)| 对目前比较火的AI模型进行调研，对比一下各自的效果 | 无 | 无 |
+| 11-12 |[Linux学习笔记](https://github.com/xiaoyou-bilibili/linux_study)| 鸟哥linux私房菜笔记 | 无 | 无 |
