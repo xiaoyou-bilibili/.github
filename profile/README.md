@@ -37,3 +37,5 @@ B站：https://space.bilibili.com/343147393
 | 10-12 |[动漫人物模仿视频人脸](https://github.com/xiaoyou-bilibili/openpose-wifu)| 纸片人模仿川普说话 | [B站](https://www.bilibili.com/video/BV1wG411J7cg) <br> [YouTube](https://youtu.be/KKBBNL_fT3g) |[掘金](https://juejin.cn/post/7153798545949556767)|
 | 10-16 |[AI作画调研](https://github.com/xiaoyou-bilibili/ai_draw)| 对目前比较火的AI模型进行调研，对比一下各自的效果 | 无 | 无 |
 | 11-12 |[Linux学习笔记](https://github.com/xiaoyou-bilibili/linux_study)| 鸟哥linux私房菜笔记 | 无 | 无 |
+| 11-19 |[声音克隆](https://github.com/xiaoyou-bilibili/voice_clone)| 把你的声音转换为原神角色的声音 | [B站](https://www.bilibili.com/video/BV1S84y1k7KS) <br> [YouTube](https://youtu.be/6AdGZX_M260) | 无
+
