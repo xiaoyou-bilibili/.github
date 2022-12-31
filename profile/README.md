@@ -39,3 +39,5 @@ B站：https://space.bilibili.com/343147393
 | 11-12 |[Linux学习笔记](https://github.com/xiaoyou-bilibili/linux_study)| 鸟哥linux私房菜笔记 | 无 | 无 |
 | 11-19 |[声音克隆](https://github.com/xiaoyou-bilibili/voice_clone)| 把你的声音转换为原神角色的声音 | [B站](https://www.bilibili.com/video/BV1S84y1k7KS) <br> [YouTube](https://youtu.be/6AdGZX_M260) | 无 |
 | 12-03 |[XORM](https://github.com/xiaoyou-bilibili/xorm)| 使用go语言从零实现一个ORM框架 | [B站](https://www.bilibili.com/video/BV1Y841157YH) <br> [YouTube](https://youtu.be/TmSzkfVH5E0) | [掘金](https://juejin.cn/post/7172852390079496229/)|
+| 12-21 |[mskn](https://github.com/xiaoyou-bilibili/mskn)| 一款简单模仿魔禁里御坂网络的项目 | [B站](https://www.bilibili.com/video/BV1yV4y1c7vD) <br> [YouTube](https://youtu.be/AmFYccLXuiU) | 无|
+| 12-25 |[图像超分辨率](https://github.com/xiaoyou-bilibili/Real-ESRGAN)| 对Real-ESRGAN项目简单套壳 | [B站](https://www.bilibili.com/video/BV1UP4y1i7Bu) <br>  | 无 |
