@@ -9,7 +9,7 @@ B站：https://space.bilibili.com/343147393
 
 ## 2023
 | 发布时间 |名称|简介|视频|
-|----|----|----|----|----|
+|----|----|----|----|
 | 01-08 |[语音识别](https://github.com/xiaoyou-bilibili/whisper-web)|基于whisper的语音识别，包括视频字幕自动生成功能| [B站](https://www.bilibili.com/video/BV1aM41187zB) <br> [YouTube]() |
 | 01-15 |[视频小工具](https://github.com/xiaoyou-bilibili/video_tool)|视频小工具包括批量字幕内嵌、视频转码、音频提取、视频混流、视频超分辨率、字幕生成功能| [B站]() <br> [YouTube]() |
 
