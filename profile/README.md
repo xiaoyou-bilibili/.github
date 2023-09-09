@@ -11,8 +11,10 @@ B站：https://space.bilibili.com/343147393
 | 发布时间 |名称|简介|视频|
 |----|----|----|----|
 | 01-08 |[语音识别](https://github.com/xiaoyou-bilibili/whisper-web)|基于whisper的语音识别，包括视频字幕自动生成功能| [B站](https://www.bilibili.com/video/BV1aM41187zB) <br> [YouTube](https://youtu.be/xDLJUZ3zXdM) |
-| 01-15 |[视频小工具](https://github.com/xiaoyou-bilibili/video_tool)|批量字幕内嵌、视频转码、音频提取、视频混流、视频超分辨率、字幕生成| [B站]() <br> [YouTube](https://youtu.be/Oi4qaTqBhKU) |
-
+| 01-15 |[视频小工具](https://github.com/xiaoyou-bilibili/video_tool)|批量字幕内嵌、视频转码、音频提取、视频混流、视频超分辨率、字幕生成| [B站](https://www.bilibili.com/video/BV1n3411Z7e7) <br> [YouTube](https://youtu.be/Oi4qaTqBhKU) |
+| 03-30 |[恋爱APP](https://github.com/xiaoyou-bilibili/love)|一款记录恋爱日常的APP，使用flutter+rust开发| [B站](https://www.bilibili.com/video/BV1Ms4y1g7NC) <br> [YouTube](https://youtu.be/fUht7iLGMu0) |
+| 08-10 |[IOS动漫人脸识别](https://github.com/xiaoyou-bilibili/anime_recognize_ios)|使用Swift开发，可以运行在IOS系统上| [B站](https://www.bilibili.com/video/BV148411R7dX) <br> [YouTube](https://youtu.be/toUw-PpyAAE) |
+| 09-09 |[泰拉瑞亚服务器](https://github.com/xiaoyou-bilibili/terraria)|泰拉瑞亚服务器控制面板| [B站](https://www.bilibili.com/video/BV1m14y167BR) <br> [YouTube](https://youtu.be/6zUas3yOdKs) |
 
 ## 2022
 
