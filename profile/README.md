@@ -15,6 +15,8 @@ B站：https://space.bilibili.com/343147393
 | 03-30 |[恋爱APP](https://github.com/xiaoyou-bilibili/love)|一款记录恋爱日常的APP，使用flutter+rust开发| [B站](https://www.bilibili.com/video/BV1Ms4y1g7NC) <br> [YouTube](https://youtu.be/fUht7iLGMu0) |
 | 08-10 |[IOS动漫人脸识别](https://github.com/xiaoyou-bilibili/anime_recognize_ios)|使用Swift开发，可以运行在IOS系统上| [B站](https://www.bilibili.com/video/BV148411R7dX) <br> [YouTube](https://youtu.be/toUw-PpyAAE) |
 | 09-09 |[泰拉瑞亚服务器](https://github.com/xiaoyou-bilibili/terraria)|泰拉瑞亚服务器控制面板| [B站](https://www.bilibili.com/video/BV1m14y167BR) <br> [YouTube](https://youtu.be/6zUas3yOdKs) |
+| 09-21 |[GPT打造个人知识库](https://github.com/xiaoyou-bilibili/llm_knowledge)|基于大语言模型打造专属知识库| [B站](https://www.bilibili.com/video/BV1p8411v7z6) <br> [YouTube](https://youtu.be/KWwcivIaeJ0) |
+| 09-29 |[我的世界AI助手](https://github.com/xiaoyou-bilibili/llm_mc)|基于大语言模型的我的世界AI助手| [B站](https://www.bilibili.com/video/BV1Tm4y1V7ia) <br> [YouTube](https://youtu.be/GOqdHohCBw8) |
 
 ## 2022
 
