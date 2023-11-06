@@ -17,6 +17,8 @@ B站：https://space.bilibili.com/343147393
 | 09-09 |[泰拉瑞亚服务器](https://github.com/xiaoyou-bilibili/terraria)|泰拉瑞亚服务器控制面板| [B站](https://www.bilibili.com/video/BV1m14y167BR) <br> [YouTube](https://youtu.be/6zUas3yOdKs) |
 | 09-21 |[GPT打造个人知识库](https://github.com/xiaoyou-bilibili/llm_knowledge)|基于大语言模型打造专属知识库| [B站](https://www.bilibili.com/video/BV1p8411v7z6) <br> [YouTube](https://youtu.be/KWwcivIaeJ0) |
 | 09-29 |[我的世界AI助手](https://github.com/xiaoyou-bilibili/llm_mc)|基于大语言模型的我的世界AI助手| [B站](https://www.bilibili.com/video/BV1Tm4y1V7ia) <br> [YouTube](https://youtu.be/GOqdHohCBw8) |
+| 10-12 |[GPT资源查找助手](https://github.com/xiaoyou-bilibili/llm_download)|基于大语言模型的资源下载助手，帮你自动提取资源下载链接| [B站](https://www.bilibili.com/video/BV1iw411k7s1/) <br> [YouTube](https://youtu.be/RGNsz9l92_c) |
+| 11-05 |[GPT浏览器助手](https://github.com/xiaoyou-bilibili/chrome_ai_assistant)|基于大语言模型的浏览器助手，支持强大的流程编辑功能，无需代码即可给助手新增技能| [B站](https://www.bilibili.com/video/BV1qa4y1D7Gg) <br> [YouTube](https://youtu.be/Wjvfbbj5oYA) |
 
 ## 2022
 
