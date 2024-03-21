@@ -7,6 +7,10 @@ B站：https://space.bilibili.com/343147393
 <br>Twitter：https://twitter.com/xiaoyou625
 <br>github：https://github.com/xiaoyou66
 
+## 2024
+
+今年主要方向是在做一款 [视频剪辑工具](https://zyjj.cc/)，我们希望通过人工智能来降低大家的视频创作门槛，欢迎大家试用！
+
 ## 2023
 | 发布时间 |名称|简介|视频|
 |----|----|----|----|
